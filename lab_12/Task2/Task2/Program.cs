@@ -100,7 +100,6 @@ class Program
 
     public static void Main()
     {
-        string s = "Tomatoes";
         var mary = new Allergies("Mary");
         var joe = new Allergies("Joe", 65);
         var rob = new Allergies("Rob", "Peanuts Chocolate Cats Strawberry");
